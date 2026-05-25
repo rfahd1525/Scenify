@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+*.code-workspace
+
+# App output
+scene-optimizer/output/
+scene-optimizer/uploads/
+
+# Temp files
+/tmp/scene_optimizer/
